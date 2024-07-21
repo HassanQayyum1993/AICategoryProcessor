@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <form method="post" asp-page-handler="Submit">
+        <div style="display: flex; justify-content: center; align-items: center;">
+            <!-- JSON Input Field -->
+            <div style="flex: 1; margin-right: 10px;">
+                <label for="CategoryJson">Input</label>
+                <textarea id="CategoryJson" name="CategoryJson" rows="20" cols="50" style="width: 100%;">@Model.CategoryJson</textarea>
+            </div>
+
+            <!-- Submit Button -->
+            <div style="flex: 0; margin: 0 10px;">
+                <button type="submit">Submit</button>
+            </div>
+
+            <!-- Output Field -->
+            <div style="flex: 1; margin-left: 10px;">
+                <label for="OutputJson">Output</label>
+                <textarea id="OutputJson" rows="20" cols="50" style="width: 100%;" readonly>@Model.OutputJson</textarea>
+            </div>
+        </div>
+    </form>
+</div>
