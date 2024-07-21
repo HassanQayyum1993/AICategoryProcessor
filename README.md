@@ -10,6 +10,8 @@ This project takes a list of categories in JSON format and outputs the 3 most fa
 
 Before running the application, you need to configure the API key. Follow these steps:
 
+1. **Create the apikey** from this link https://aistudio.google.com/app/apikey. You can select any relevant project.
+
 1. **Locate the `appsettings.json` file** within the `CategoryProcessor` directory.
 
 2. **Open `appsettings.json`** and find the `"GeminiAi"` section.
@@ -27,19 +29,19 @@ Replace "your-api-key-here" with your actual API key.
 
 Save the file after making the changes.
 
-#Execution
+## Execution
 To restore dependencies and run the application, use the following commands:
 
 dotnet restore
 dotnet run
 
-#Usage
+## Usage
 
 1. Enter the list of categories in the input field.
 2. Click on the submit button.
 3. The list of attributes will be populated after a few seconds in the output field.
 
-#Note
+## Note
 An empty list of attributes may be returned for some categories because the Gemini API can become exhausted due to too many requests in a short time.
 
 
