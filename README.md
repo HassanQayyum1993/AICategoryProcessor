@@ -43,7 +43,7 @@ dotnet run --launch-profile https
 ## Usage
 
 1. Once the application runs successfully, in the web browser, go to the URL: https://localhost:7046/.
-2. Enter the list of categories in the input field.
+2. Enter the list of categories in the input field. The input json to test is present in **input_data.txt** file
 3. Click on the submit button.
 4. The list of attributes will be populated after a few seconds in the output field.
 
