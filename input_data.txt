@@ -1,0 +1,313 @@
+[
+    {
+        "categoryName": "TVs",
+        "subCategories": [
+            {
+                "categoryId": 80,
+                "categoryName": "TVs"
+            },
+            {
+                "categoryId": 948,
+                "categoryName": "All-Weather TVs"
+            },
+            {
+                "categoryId": 37,
+                "categoryName": "TV Accessories"
+            }
+        ]
+    },
+    {
+        "categoryName": "Projectors & Screens",
+        "subCategories": [
+            {
+                "categoryId": 62,
+                "categoryName": "Projectors"
+            },
+            {
+                "categoryId": 30,
+                "categoryName": "Projector Screens"
+            },
+            {
+                "categoryId": 83,
+                "categoryName": "Projector Lenses"
+            },
+            {
+                "categoryId": 35,
+                "categoryName": "Projector Accessories"
+            },
+            {
+                "categoryId": 1201,
+                "categoryName": "Screen Accessories"
+            }
+        ]
+    },
+    {
+        "categoryName": "Mounting Brackets",
+        "subCategories": [
+            {
+                "categoryId": 126,
+                "categoryName": "TV Mounts & Brackets"
+            },
+            {
+                "categoryId": 91,
+                "categoryName": "Motorized Lifts"
+            },
+            {
+                "categoryId": 102,
+                "categoryName": "Projector Brackets"
+            },
+            {
+                "categoryId": 793,
+                "categoryName": "Speaker Mounts"
+            },
+            {
+                "categoryId": 1203,
+                "categoryName": "Mounting Bracket Accessories"
+            },
+            {
+                "categoryId": 1628,
+                "categoryName": "Tablet Brackets"
+            }
+        ]
+    },
+    {
+        "categoryName": "Receivers & Amps",
+        "subCategories": [
+            {
+                "categoryId": 105,
+                "categoryName": "Receivers"
+            },
+            {
+                "categoryId": 40,
+                "categoryName": "Amplifiers"
+            },
+            {
+                "categoryId": 101,
+                "categoryName": "Preamps & Processors"
+            },
+            {
+                "categoryId": 1198,
+                "categoryName": "Receiver & Amp Accessories"
+            }
+        ]
+    },
+    {
+        "categoryName": "Speakers",
+        "subCategories": [
+            {
+                "categoryId": 115,
+                "categoryName": "Sound Bars & Bases"
+            },
+            {
+                "categoryId": 120,
+                "categoryName": "Subwoofers"
+            },
+            {
+                "categoryId": 74,
+                "categoryName": "In-Ceiling"
+            },
+            {
+                "categoryId": 75,
+                "categoryName": "In-Wall"
+            },
+            {
+                "categoryId": 94,
+                "categoryName": "Outdoor"
+            },
+            {
+                "categoryId": 48,
+                "categoryName": "Bookshelf & On-Wall"
+            },
+            {
+                "categoryId": 70,
+                "categoryName": "Floorstanding"
+            }
+        ]
+    },
+    {
+        "categoryName": "A/V Sources & Media Players",
+        "subCategories": [
+            {
+                "categoryId": 766,
+                "categoryName": "Media Players"
+            },
+            {
+                "categoryId": 45,
+                "categoryName": "Docking Stations"
+            },
+            {
+                "categoryId": 131,
+                "categoryName": "Blu-Ray Players"
+            },
+            {
+                "categoryId": 765,
+                "categoryName": "DVD Players"
+            },
+            {
+                "categoryId": 1704,
+                "categoryName": "Mobile Devices"
+            },
+            {
+                "categoryId": 767,
+                "categoryName": "Gaming Systems"
+            },
+            {
+                "categoryId": 768,
+                "categoryName": "CD Players"
+            },
+            {
+                "categoryId": 769,
+                "categoryName": "Turntables"
+            }
+        ]
+    },
+    {
+        "categoryName": "Control",
+        "subCategories": [
+            {
+                "categoryId": 106,
+                "categoryName": "Handheld Remotes"
+            },
+            {
+                "categoryId": 55,
+                "categoryName": "Climate Control"
+            },
+            {
+                "categoryId": 79,
+                "categoryName": "Keypads"
+            },
+            {
+                "categoryId": 125,
+                "categoryName": "Touchscreens"
+            },
+            {
+                "categoryId": 59,
+                "categoryName": "Controllers"
+            },
+            {
+                "categoryId": 794,
+                "categoryName": "Base Stations, Repeaters, & Gateways"
+            },
+            {
+                "categoryId": 1648,
+                "categoryName": "Contacts, Relays & Sensors"
+            }
+        ]
+    },
+    {
+        "categoryName": "Lighting",
+        "subCategories": [
+            {
+                "categoryId": 84,
+                "categoryName": "Dimmers & Switches"
+            },
+            {
+                "categoryId": 1712,
+                "categoryName": "Keypads"
+            },
+            {
+                "categoryId": 1713,
+                "categoryName": "Panelized Lighting"
+            },
+            {
+                "categoryId": 1714,
+                "categoryName": "Color Change Kits"
+            },
+            {
+                "categoryId": 1721,
+                "categoryName": "Light Strips"
+            },
+            {
+                "categoryId": 1722,
+                "categoryName": "Bulbs & Lamps"
+            }
+        ]
+    },
+    {
+        "categoryName": "Networking",
+        "subCategories": [
+            {
+                "categoryId": 1698,
+                "categoryName": "Routers, Gateways, & Firewalls"
+            },
+            {
+                "categoryId": 107,
+                "categoryName": "Switches"
+            },
+            {
+                "categoryId": 138,
+                "categoryName": "Wireless Hardware"
+            },
+            {
+                "categoryId": 1571,
+                "categoryName": "Wireless Antennas"
+            },
+            {
+                "categoryId": 1699,
+                "categoryName": "Cellular Boosters"
+            }
+        ]
+    },
+    {
+        "categoryName": "Signal Distribution",
+        "subCategories": [
+            {
+                "categoryId": 44,
+                "categoryName": "Baluns & Extenders"
+            },
+            {
+                "categoryId": 2045,
+                "categoryName": "AVoIP"
+            },
+            {
+                "categoryId": 87,
+                "categoryName": "Switchers"
+            },
+            {
+                "categoryId": 111,
+                "categoryName": "Signal Converters"
+            },
+            {
+                "categoryId": 1770,
+                "categoryName": "Encoders & Decoders"
+            },
+            {
+                "categoryId": 1568,
+                "categoryName": "Splitters & Dist Amps"
+            }
+        ]
+    },
+    {
+        "categoryName": "Multi-Room Audio",
+        "subCategories": [
+            {
+                "categoryId": 92,
+                "categoryName": "Keypads & Components"
+            },
+            {
+                "categoryId": 132,
+                "categoryName": "Volume Controls"
+            },
+            {
+                "categoryId": 1275,
+                "categoryName": "Speaker Switchers"
+            },
+            {
+                "categoryId": 1709,
+                "categoryName": "Packages"
+            },
+            {
+                "categoryId": 1755,
+                "categoryName": "Controllers"
+            },
+            {
+                "categoryId": 1276,
+                "categoryName": "Multi-Room Audio Accessories"
+            },
+            {
+                "categoryId": 1776,
+                "categoryName": "Software & Licenses"
+            }
+        ]
+    }
+]
